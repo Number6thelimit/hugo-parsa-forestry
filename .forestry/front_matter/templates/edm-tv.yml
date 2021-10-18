@@ -1,4 +1,8 @@
 ---
 label: EDM TV
 hide_body: false
-fields: []
+fields:
+- name: video_clips
+  type: image_gallery
+  config: {}
+  label: Video clips
